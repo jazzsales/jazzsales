@@ -1,8 +1,8 @@
-### Hi there my name is Jasmine 👋
+### Hi there my name is Jasmine 💖✨
 
 <h1>Hi, I'm Jasmine, an <a href="https://linkedin.com/in/Jazzsales">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jazzsales/osticket-prereqs)
