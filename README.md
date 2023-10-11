@@ -1,6 +1,6 @@
 ### Hi there my name is Jasmine 💖✨
 
-<h1>Hi, I'm Jasmine, an <a href="https://linkedin.com/in/Jazzsales">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jasmine, your favorite <a href="https://linkedin.com/in/Jazzsales">IT Professional</a>☺</h1>
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
