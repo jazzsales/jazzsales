@@ -6,7 +6,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Jazzsales/configure-ad)
+  - [How to create a virtual machine with Azure](https://github.com/Jazzsales/configure-ad)
 
 
 <h2>🤳Connect with me:</h2>
